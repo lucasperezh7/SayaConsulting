@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2700" height="1800">
+  <defs>
+    <path id="a" fill="#fc0" d="M0-1 .58778525.80901699-.95105652-.30901699H.95105652L-.58778525.80901699z" transform="scale(100)"/>
+  </defs>
+  <path fill="#039" d="M0 0h2700v1800H0z"/>
+  <g transform="rotate(180 675 450)">
+    <use xlink:href="#a" transform="translate(0 -600)"/>
+    <use xlink:href="#a" transform="translate(300 -519.61524227)"/>
+    <use xlink:href="#a" transform="translate(519.61524227 -300)"/>
+    <use xlink:href="#a" transform="translate(600)"/>
+    <use xlink:href="#a" transform="translate(519.61524227 300)"/>
+    <use xlink:href="#a" transform="translate(300 519.61524227)"/>
+    <use xlink:href="#a" transform="translate(0 600)"/>
+    <use xlink:href="#a" transform="translate(-300 519.61524227)"/>
+    <use xlink:href="#a" transform="translate(-519.61524227 300)"/>
+    <use xlink:href="#a" transform="translate(-600)"/>
+    <use xlink:href="#a" transform="translate(-519.61524227 -300)"/>
+    <use xlink:href="#a" transform="translate(-300 -519.61524227)"/>
+  </g>
+</svg>
