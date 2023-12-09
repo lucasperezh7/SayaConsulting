@@ -1,6 +1,6 @@
 import React from "react";
 import Foto from "../assets/Card2.svg";
-import Foto1 from "../images/calendar.png";
+
 import Foto2 from "../images/grafico.png";
 import { Link } from "react-router-dom";
 
@@ -33,7 +33,6 @@ function Portada4() {
             <h1 className="text-xl md:text-2xl font-bold text-center mb-4">
               Gestión Judicial
             </h1>
-            <img className="w-32 h-32 md:w-40 md:h-40" src={Foto1} alt="" />
           </Link>
         </div>
       </div>
