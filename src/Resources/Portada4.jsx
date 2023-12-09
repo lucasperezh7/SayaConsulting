@@ -1,7 +1,5 @@
 import React from "react";
-import Foto from "../assets/Card2.svg";
 
-import Foto2 from "../images/grafico.png";
 import { Link } from "react-router-dom";
 
 function Portada4() {
@@ -13,7 +11,6 @@ function Portada4() {
             <h1 className="text-xl md:text-2xl font-bold text-center mb-4">
               Gestión Fiscal y Financiera
             </h1>
-            <img className="w-32 h-32 md:w-40 md:h-40" src={Foto} alt="" />
           </Link>
         </div>
       </div>
@@ -23,7 +20,6 @@ function Portada4() {
             <h1 className="text-xl md:text-2xl font-bold text-center mb-4">
               Gestión Administrativa
             </h1>
-            <img className="w-32 h-32 md:w-40 md:h-40" src={Foto2} alt="" />
           </Link>
         </div>
       </div>
